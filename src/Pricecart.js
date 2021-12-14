@@ -1,6 +1,6 @@
 import "./Cart.css";
 
-export default function PriceCard(props) {
+export default function Card(props) {
   return <div class="col-lg-4">
     <div class="card mb-5 mb-lg-0">
       <div class="card-body">
